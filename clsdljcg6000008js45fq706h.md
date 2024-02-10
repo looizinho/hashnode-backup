@@ -15,5 +15,3 @@ O primeiro post certamente deveria ser um Hello World!, certo?
 Por aqui você irá encontrar alguns dos serviços e eventos realizados.
 
 Sinta-se à vontade para entrar em contato comigo, estou à disposição.
-
-[![](https://cdn.hashnode.com/res/hashnode/image/upload/v1707524202672/7aaf4468-8725-454d-a6a1-2b81ebb8b04e.png align="center")](https://s2.loli.net/2024/02/10/lGSDzTFN2X8eKxW.png)
